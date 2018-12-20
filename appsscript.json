@@ -1,6 +1,11 @@
 {
   "timeZone": "America/Mexico_City",
   "dependencies": {
+    "libraries": [{
+      "userSymbol": "PCC",
+      "libraryId": "1r0D3xBv6jYZ8UUZflO3BacTZmBlgTU3MVKFriHaBuxmlNNR33l3sboCk",
+      "version": "2"
+    }]
   },
   "exceptionLogging": "STACKDRIVER"
 }
